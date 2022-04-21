@@ -4,6 +4,7 @@
 ### Data Understanding:-
 
 Data Source Link: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+
 Webapp Link: https://share.streamlit.io/dkc-7000001/predictive-maintenance/main/predict_page.py
 
 #### This dataset reflects real predictive maintenance encountered in the industry to the best of our knowledge. And i am going to use this to predict the failure and by getting that info we can predict the requirment of maintenance. and with that we can save money and effort.
