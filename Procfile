@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Divorce_v2_predict_page_git.py
